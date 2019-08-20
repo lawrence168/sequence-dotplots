@@ -1,0 +1,13 @@
+name: env
+
+dependencies:
+- python=3.6
+- notebook
+
+- matplotlib
+channels:
+- default
+- conda-forge
+
+
+
